@@ -1,5 +1,3 @@
-  GNU nano 8.2                       convert.js
-NU nano 8.2                            convert.js
 function convertirCF() {
     let CF = prompt("A què vols convertir C/F?");
     let temp = parseFloat(prompt("Temperatura:"));
