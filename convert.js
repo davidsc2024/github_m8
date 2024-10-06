@@ -1,3 +1,4 @@
+NU nano 8.2                            convert.js
 function convertirCF() {
     let CF = prompt("A què vols convertir C/F?");
     let temp = parseFloat(prompt("Temperatura:"));
@@ -11,3 +12,4 @@ function convertirCF() {
         console.log("Només es pot C ó F");
     }
 }
+
